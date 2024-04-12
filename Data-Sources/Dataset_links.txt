@@ -1,0 +1,5 @@
+IMDB DATASET --> https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/data
+
+ROTTEN TOMATOES DATASET --> https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews?select=rotten_tomatoes_movies.csv
+
+METACRITIC DATASET --> https://www.kaggle.com/datasets/patkle/metacritic-scores-for-games-movies-tv-and-music
